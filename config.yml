@@ -1,0 +1,8 @@
+temperature:
+  name: temperature-ms
+  unit: K
+
+humidity:
+  name: humidity-ms
+  unit: %
+
